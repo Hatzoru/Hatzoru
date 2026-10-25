@@ -1,4 +1,4 @@
-# Hi there, I'm Ignacio Fages Egidi! 👋
+# Hi there, I'm Ignacio! 👋
 
 ### Electronics Technician & Electronic Engineering Student
 📍 La Plata, Argentina | 🌐 Open to Remote AI Training & Data Annotation roles
