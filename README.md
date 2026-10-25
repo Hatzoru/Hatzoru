@@ -13,9 +13,8 @@ Currently, I am seeking remote part-time opportunities in **AI Training, Data An
 - **Tools:** Git, Linux, VirtualIOT, WebSockets, Excel.
 
 ### 🚀 Featured Projects
-- **[Advanced School Domotics System (IoT)](link-to-repo-1):** Network of ESP8266 modules and a Raspberry Pi server with WebSockets and SQL.
-- **[ESP32 Security & Domotics System](link-to-repo-2):** Gas, motion, and temperature detection with Bluetooth app control.
-- **[Industrial Automation & PCB Design](link-to-repo-3):** PLC programming, CNC PCB milling, and high-voltage panel assembly.
+- **[Advanced School Domotics System (IoT)](https://github.com/Hatzoru/Domotic-school-wifi):** Network of ESP8266 modules and a Raspberry Pi server with WebSockets and SQL.
+- **[ESP32 Security & Domotics System](https://github.com/Hatzoru/Domotic-bluetooth):** Gas, motion, and temperature detection with Bluetooth app control.
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ignacio-fages-egidi-179244318/)
